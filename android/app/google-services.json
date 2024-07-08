@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861717205433",
+    "firebase_url": "https://gagga-7164a-default-rtdb.firebaseio.com",
+    "project_id": "gagga-7164a",
+    "storage_bucket": "gagga-7164a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861717205433:android:81d825c561c82ed213e668",
+        "android_client_info": {
+          "package_name": "com.mycompany.gagga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACsFGn3TBgfphN_AEqREWoEUoRDNlsxcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
